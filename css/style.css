@@ -102,6 +102,7 @@
     align-items: center;
     text-align: center;
     background-color: rgb(216, 214, 220);
+    padding: 30px;
 }
 
 #services li{
@@ -110,6 +111,20 @@
     height: auto;
     margin:1%;
     display: inline-block;
+    background-color: whitesmoke;
+    padding-bottom: 35px;
+    padding-top: 30px;
+    padding-right: 15px;
+    padding-left: 15px;
+    justify-content: center;
+}
+
+#services li:hover{
+    box-shadow: 1px 2px 3px;
+}
+
+#services li:nth-of-type(1){
+    background-color: #F15C08;
 }
 
 
