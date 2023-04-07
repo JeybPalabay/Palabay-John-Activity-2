@@ -35,4 +35,29 @@
     content: "";
 }
 
+#blog{
+    text-align: center; 
+    margin-top: 8%;
+    margin-left: auto;
+   
+}
+
+#blog > h2{
+    font-size: 45px;
+    margin-bottom: -3%;
+    text-align: center;
+}
+
+#blog > div{
+    width: 15%;
+    margin-top: 5%;
+    display: inline-block;
+    margin: 1%;
+    padding:2%
+
+
+}
+
+
+
 
