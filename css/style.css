@@ -1,0 +1,17 @@
+#mywebsite {
+    font-family:Arial, Helvetica, sans-serif;
+    margin:auto;
+}
+
+#landing {
+    height:1050px;
+    background-image: url('../Palabay-John-Activity-2/img/landing-img.jpg');
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background-position: center top;
+    background-size: cover;
+    color:white;
+}
