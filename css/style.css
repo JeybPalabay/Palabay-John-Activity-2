@@ -96,6 +96,22 @@
     color:white;
 }
 
+#services {
+    margin-top: 100px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(216, 214, 220);
+}
+
+#services li{
+    font-size: 25px;
+    width:10%;
+    height: auto;
+    margin:1%;
+    display: inline-block;
+}
+
 
 
 
