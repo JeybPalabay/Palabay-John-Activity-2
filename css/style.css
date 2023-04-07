@@ -5,7 +5,7 @@
 
 #landing {
     height:1050px;
-    background-image: url('../Palabay-John-Activity-2/img/landing-img.jpg');
+    background-image: url('../css/img/landing-img.jpg');
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -15,3 +15,16 @@
     background-size: cover;
     color:white;
 }
+
+#landing h1 {
+    font-size: 65px;
+    position:relative;
+}
+
+#landing p {
+    font-size: 25px;
+    position: relative;
+    margin-top: -30px;
+}
+
+
