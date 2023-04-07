@@ -48,13 +48,20 @@
     text-align: center;
 }
 
-#blog > div{
+#blog div {
     width: 15%;
-    margin-top: 5%;
     display: inline-block;
+    margin-top: 5%;
     margin: 1%;
     padding:2%
+    
+}
 
+#blog div img{
+    margin:0%;
+    width:100%;
+    height: auto;
+    border-radius: 3%;
 
 }
 
